@@ -1,0 +1,2363 @@
+[
+  {
+    "id": "ITEM-0001",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "New",
+    "amount": 7244.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0002",
+    "title": "Deploy API",
+    "category": "C",
+    "status": "New",
+    "amount": 90970.0,
+    "dateISO": "2025-09-28T00:00:00"
+  },
+  {
+    "id": "ITEM-0003",
+    "title": "Fix chart",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 41817.0,
+    "dateISO": "2025-10-09T00:00:00"
+  },
+  {
+    "id": "ITEM-0004",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "New",
+    "amount": 82685.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0005",
+    "title": "Fix workflow",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 4959.0,
+    "dateISO": "2025-10-12T00:00:00"
+  },
+  {
+    "id": "ITEM-0006",
+    "title": "Fix chart",
+    "category": "B",
+    "status": "Completed",
+    "amount": 41914.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0007",
+    "title": "Deploy API",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 10306.0,
+    "dateISO": "2025-09-28T00:00:00"
+  },
+  {
+    "id": "ITEM-0008",
+    "title": "Fix workflow",
+    "category": "C",
+    "status": "New",
+    "amount": 54774.0,
+    "dateISO": "2025-09-27T00:00:00"
+  },
+  {
+    "id": "ITEM-0009",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 49641.0,
+    "dateISO": "2025-10-13T00:00:00"
+  },
+  {
+    "id": "ITEM-0010",
+    "title": "Review workflow",
+    "category": "C",
+    "status": "Blocked",
+    "amount": 58556.0,
+    "dateISO": "2025-09-28T00:00:00"
+  },
+  {
+    "id": "ITEM-0011",
+    "title": "Update UI",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 79438.0,
+    "dateISO": "2025-10-01T00:00:00"
+  },
+  {
+    "id": "ITEM-0012",
+    "title": "Fix workflow",
+    "category": "A",
+    "status": "Completed",
+    "amount": 52520.0,
+    "dateISO": "2025-09-23T00:00:00"
+  },
+  {
+    "id": "ITEM-0013",
+    "title": "Update UI",
+    "category": "D",
+    "status": "Completed",
+    "amount": 60896.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0014",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 75714.0,
+    "dateISO": "2025-10-13T00:00:00"
+  },
+  {
+    "id": "ITEM-0015",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "New",
+    "amount": 96202.0,
+    "dateISO": "2025-10-11T00:00:00"
+  },
+  {
+    "id": "ITEM-0016",
+    "title": "Write docs",
+    "category": "C",
+    "status": "Completed",
+    "amount": 69530.0,
+    "dateISO": "2025-10-13T00:00:00"
+  },
+  {
+    "id": "ITEM-0017",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "New",
+    "amount": 83997.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0018",
+    "title": "Design API",
+    "category": "D",
+    "status": "New",
+    "amount": 6067.0,
+    "dateISO": "2025-01-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0019",
+    "title": "Design API",
+    "category": "D",
+    "status": "Completed",
+    "amount": 71663.0,
+    "dateISO": "2025-09-23T00:00:00"
+  },
+  {
+    "id": "ITEM-0020",
+    "title": "Update UI",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 35546.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0021",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "New",
+    "amount": 21821.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0022",
+    "title": "Analyze dashboard",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 39095.0,
+    "dateISO": "2025-10-06T00:00:00"
+  },
+  {
+    "id": "ITEM-0023",
+    "title": "Configure dashboard",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 44919.0,
+    "dateISO": "2025-09-18T00:00:00"
+  },
+  {
+    "id": "ITEM-0024",
+    "title": "Design API",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 86398.0,
+    "dateISO": "2025-09-28T00:00:00"
+  },
+  {
+    "id": "ITEM-0025",
+    "title": "Review workflow",
+    "category": "C",
+    "status": "Blocked",
+    "amount": 95773.0,
+    "dateISO": "2025-10-07T00:00:00"
+  },
+  {
+    "id": "ITEM-0026",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 23196.0,
+    "dateISO": "2025-10-11T00:00:00"
+  },
+  {
+    "id": "ITEM-0027",
+    "title": "Fix chart",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 26275.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0028",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "Completed",
+    "amount": 60981.0,
+    "dateISO": "2025-10-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0029",
+    "title": "Analyze dashboard",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 89953.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0030",
+    "title": "Write docs",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 39898.0,
+    "dateISO": "2025-09-21T00:00:00"
+  },
+  {
+    "id": "ITEM-0031",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "New",
+    "amount": 19061.0,
+    "dateISO": "2025-10-12T00:00:00"
+  },
+  {
+    "id": "ITEM-0032",
+    "title": "Configure dashboard",
+    "category": "B",
+    "status": "New",
+    "amount": 34005.0,
+    "dateISO": "2025-10-09T00:00:00"
+  },
+  {
+    "id": "ITEM-0033",
+    "title": "Deploy API",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 53662.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0034",
+    "title": "Update UI",
+    "category": "A",
+    "status": "New",
+    "amount": 87433.0,
+    "dateISO": "2025-02-15T00:00:00"
+  },
+  
+  {
+    "id": "ITEM-00340",
+    "title": "Update UI",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 87433.0,
+    "dateISO": "2025-02-15T00:00:00"
+  },
+  
+  {
+    "id": "ITEM-00341",
+    "title": "Update UI",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 87433.0,
+    "dateISO": "2025-02-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0035",
+    "title": "Review workflow",
+    "category": "B",
+    "status": "Completed",
+    "amount": 95547.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0036",
+    "title": "Update UI",
+    "category": "D",
+    "status": "New",
+    "amount": 11535.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0037",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 31185.0,
+    "dateISO": "2025-09-30T00:00:00"
+  },
+  {
+    "id": "ITEM-0038",
+    "title": "Deploy API",
+    "category": "C",
+    "status": "Completed",
+    "amount": 47862.0,
+    "dateISO": "2025-10-11T00:00:00"
+  },
+  {
+    "id": "ITEM-0039",
+    "title": "Analyze dashboard",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 95099.0,
+    "dateISO": "2025-09-23T00:00:00"
+  },
+  {
+    "id": "ITEM-0040",
+    "title": "Update UI",
+    "category": "B",
+    "status": "New",
+    "amount": 75814.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0041",
+    "title": "Deploy API",
+    "category": "C",
+    "status": "Completed",
+    "amount": 90826.0,
+    "dateISO": "2025-10-06T00:00:00"
+  },
+  {
+    "id": "ITEM-0042",
+    "title": "Fix workflow",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 61323.0,
+    "dateISO": "2025-10-04T00:00:00"
+  },
+  {
+    "id": "ITEM-0043",
+    "title": "Fix workflow",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 73987.0,
+    "dateISO": "2025-09-20T00:00:00"
+  },
+  {
+    "id": "ITEM-0044",
+    "title": "Fix workflow",
+    "category": "D",
+    "status": "Completed",
+    "amount": 73100.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0045",
+    "title": "Design API",
+    "category": "D",
+    "status": "Completed",
+    "amount": 19364.0,
+    "dateISO": "2025-10-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0046",
+    "title": "Update UI",
+    "category": "D",
+    "status": "Completed",
+    "amount": 95500.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0047",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "New",
+    "amount": 22685.0,
+    "dateISO": "2025-10-04T00:00:00"
+  },
+  {
+    "id": "ITEM-0048",
+    "title": "Update UI",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 62407.0,
+    "dateISO": "2025-10-09T00:00:00"
+  },
+  {
+    "id": "ITEM-0049",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 90920.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0050",
+    "title": "Deploy API",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 78230.0,
+    "dateISO": "2025-10-04T00:00:00"
+  },
+  {
+    "id": "ITEM-0051",
+    "title": "Fix workflow",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 43393.0,
+    "dateISO": "2025-09-21T00:00:00"
+  },
+  {
+    "id": "ITEM-0052",
+    "title": "Update UI",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 46316.0,
+    "dateISO": "2025-09-25T00:00:00"
+  },
+  {
+    "id": "ITEM-0053",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 99311.0,
+    "dateISO": "2025-09-22T00:00:00"
+  },
+  {
+    "id": "ITEM-0054",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 61157.0,
+    "dateISO": "2025-10-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0055",
+    "title": "Configure dashboard",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 54866.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0056",
+    "title": "Fix chart",
+    "category": "A",
+    "status": "New",
+    "amount": 52658.0,
+    "dateISO": "2025-10-11T00:00:00"
+  },
+  {
+    "id": "ITEM-0057",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 82616.0,
+    "dateISO": "2025-09-16T00:00:00"
+  },
+  {
+    "id": "ITEM-0058",
+    "title": "Fix chart",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 29297.0,
+    "dateISO": "2025-10-09T00:00:00"
+  },
+  {
+    "id": "ITEM-0059",
+    "title": "Refactor code",
+    "category": "C",
+    "status": "Completed",
+    "amount": 54435.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0060",
+    "title": "Analyze dashboard",
+    "category": "A",
+    "status": "Completed",
+    "amount": 89770.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0061",
+    "title": "Refactor code",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 53182.0,
+    "dateISO": "2025-09-24T00:00:00"
+  },
+  {
+    "id": "ITEM-0062",
+    "title": "Write docs",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 77651.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0063",
+    "title": "Fix chart",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 14156.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0064",
+    "title": "Deploy API",
+    "category": "A",
+    "status": "Completed",
+    "amount": 68233.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0065",
+    "title": "Write docs",
+    "category": "D",
+    "status": "New",
+    "amount": 88323.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0066",
+    "title": "Fix workflow",
+    "category": "B",
+    "status": "Completed",
+    "amount": 4220.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0067",
+    "title": "Write docs",
+    "category": "D",
+    "status": "New",
+    "amount": 75999.0,
+    "dateISO": "2025-10-12T00:00:00"
+  },
+  {
+    "id": "ITEM-0068",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "Completed",
+    "amount": 61253.0,
+    "dateISO": "2025-09-16T00:00:00"
+  },
+  {
+    "id": "ITEM-0069",
+    "title": "Refactor code",
+    "category": "B",
+    "status": "Completed",
+    "amount": 45235.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0070",
+    "title": "Configure dashboard",
+    "category": "B",
+    "status": "Completed",
+    "amount": 92278.0,
+    "dateISO": "2025-09-28T00:00:00"
+  },
+  {
+    "id": "ITEM-0071",
+    "title": "Fix workflow",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 41664.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0072",
+    "title": "Configure dashboard",
+    "category": "C",
+    "status": "New",
+    "amount": 67116.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+  {
+    "id": "ITEM-0073",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "Completed",
+    "amount": 78394.0,
+    "dateISO": "2025-10-02T00:00:00"
+  },
+  {
+    "id": "ITEM-0074",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 25311.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0075",
+    "title": "Configure dashboard",
+    "category": "B",
+    "status": "New",
+    "amount": 39826.0,
+    "dateISO": "2025-10-11T00:00:00"
+  },
+  {
+    "id": "ITEM-0076",
+    "title": "Analyze dashboard",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 70632.0,
+    "dateISO": "2025-09-30T00:00:00"
+  },
+  {
+    "id": "ITEM-0077",
+    "title": "Review workflow",
+    "category": "C",
+    "status": "Blocked",
+    "amount": 19574.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0078",
+    "title": "Deploy API",
+    "category": "C",
+    "status": "New",
+    "amount": 33798.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0079",
+    "title": "Configure dashboard",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 33150.0,
+    "dateISO": "2025-10-01T00:00:00"
+  },
+  {
+    "id": "ITEM-0080",
+    "title": "Design API",
+    "category": "A",
+    "status": "New",
+    "amount": 98508.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0081",
+    "title": "Fix workflow",
+    "category": "A",
+    "status": "New",
+    "amount": 26556.0,
+    "dateISO": "2025-09-20T00:00:00"
+  },
+  {
+    "id": "ITEM-0082",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 81978.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0083",
+    "title": "Design API",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 53660.0,
+    "dateISO": "2025-09-18T00:00:00"
+  },
+  {
+    "id": "ITEM-0084",
+    "title": "Refactor code",
+    "category": "D",
+    "status": "Completed",
+    "amount": 8946.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0085",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "New",
+    "amount": 26892.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0086",
+    "title": "Deploy API",
+    "category": "C",
+    "status": "New",
+    "amount": 60818.0,
+    "dateISO": "2025-10-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0087",
+    "title": "Deploy API",
+    "category": "C",
+    "status": "New",
+    "amount": 45377.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0088",
+    "title": "Write docs",
+    "category": "D",
+    "status": "Completed",
+    "amount": 62170.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0089",
+    "title": "Write docs",
+    "category": "B",
+    "status": "New",
+    "amount": 96921.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0090",
+    "title": "Fix chart",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 93225.0,
+    "dateISO": "2025-10-07T00:00:00"
+  },
+  {
+    "id": "ITEM-0091",
+    "title": "Design API",
+    "category": "B",
+    "status": "Completed",
+    "amount": 44569.0,
+    "dateISO": "2025-09-25T00:00:00"
+  },
+  {
+    "id": "ITEM-0092",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 80368.0,
+    "dateISO": "2025-09-24T00:00:00"
+  },
+  {
+    "id": "ITEM-0093",
+    "title": "Fix chart",
+    "category": "A",
+    "status": "New",
+    "amount": 73308.0,
+    "dateISO": "2025-10-07T00:00:00"
+  },
+  {
+    "id": "ITEM-0094",
+    "title": "Fix workflow",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 93464.0,
+    "dateISO": "2025-09-28T00:00:00"
+  },
+  {
+    "id": "ITEM-0095",
+    "title": "Review workflow",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 97031.0,
+    "dateISO": "2025-10-12T00:00:00"
+  },
+  {
+    "id": "ITEM-0096",
+    "title": "Fix workflow",
+    "category": "B",
+    "status": "Completed",
+    "amount": 19862.0,
+    "dateISO": "2025-10-06T00:00:00"
+  },
+  {
+    "id": "ITEM-0097",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "Completed",
+    "amount": 98188.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0098",
+    "title": "Analyze dashboard",
+    "category": "A",
+    "status": "New",
+    "amount": 62545.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0099",
+    "title": "Design API",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 5540.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0100",
+    "title": "Review workflow",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 69269.0,
+    "dateISO": "2025-09-24T00:00:00"
+  },
+  {
+    "id": "ITEM-0101",
+    "title": "Configure dashboard",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 26904.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0102",
+    "title": "Design API",
+    "category": "C",
+    "status": "Completed",
+    "amount": 97262.0,
+    "dateISO": "2025-10-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0103",
+    "title": "Update UI",
+    "category": "B",
+    "status": "New",
+    "amount": 96567.0,
+    "dateISO": "2025-09-28T00:00:00"
+  },
+  {
+    "id": "ITEM-0104",
+    "title": "Fix workflow",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 107.0,
+    "dateISO": "2025-10-06T00:00:00"
+  },
+  {
+    "id": "ITEM-0105",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "Completed",
+    "amount": 50276.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+  {
+    "id": "ITEM-0106",
+    "title": "Fix workflow",
+    "category": "A",
+    "status": "New",
+    "amount": 26417.0,
+    "dateISO": "2025-10-09T00:00:00"
+  },
+  {
+    "id": "ITEM-0107",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "New",
+    "amount": 39398.0,
+    "dateISO": "2025-10-13T00:00:00"
+  },
+  {
+    "id": "ITEM-0108",
+    "title": "Design API",
+    "category": "B",
+    "status": "New",
+    "amount": 58558.0,
+    "dateISO": "2025-10-06T00:00:00"
+  },
+  {
+    "id": "ITEM-0109",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "Completed",
+    "amount": 72068.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0110",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 4379.0,
+    "dateISO": "2025-09-30T00:00:00"
+  },
+  {
+    "id": "ITEM-0111",
+    "title": "Write docs",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 90989.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0112",
+    "title": "Write docs",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 8509.0,
+    "dateISO": "2025-09-21T00:00:00"
+  },
+  {
+    "id": "ITEM-0113",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "New",
+    "amount": 37662.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0114",
+    "title": "Write docs",
+    "category": "A",
+    "status": "New",
+    "amount": 62623.0,
+    "dateISO": "2025-10-01T00:00:00"
+  },
+  {
+    "id": "ITEM-0115",
+    "title": "Fix workflow",
+    "category": "D",
+    "status": "Completed",
+    "amount": 331.0,
+    "dateISO": "2025-09-24T00:00:00"
+  },
+  {
+    "id": "ITEM-0116",
+    "title": "Deploy API",
+    "category": "A",
+    "status": "New",
+    "amount": 74573.0,
+    "dateISO": "2025-09-20T00:00:00"
+  },
+  {
+    "id": "ITEM-0117",
+    "title": "Design API",
+    "category": "A",
+    "status": "Completed",
+    "amount": 23479.0,
+    "dateISO": "2025-09-30T00:00:00"
+  },
+  {
+    "id": "ITEM-0118",
+    "title": "Fix workflow",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 49395.0,
+    "dateISO": "2025-09-21T00:00:00"
+  },
+  {
+    "id": "ITEM-0119",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "Completed",
+    "amount": 76697.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+  {
+    "id": "ITEM-0120",
+    "title": "Fix workflow",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 33177.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0121",
+    "title": "Design API",
+    "category": "B",
+    "status": "New",
+    "amount": 48242.0,
+    "dateISO": "2025-09-25T00:00:00"
+  },
+  {
+    "id": "ITEM-0122",
+    "title": "Design API",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 67571.0,
+    "dateISO": "2025-09-30T00:00:00"
+  },
+  {
+    "id": "ITEM-0123",
+    "title": "Write docs",
+    "category": "C",
+    "status": "Blocked",
+    "amount": 46590.0,
+    "dateISO": "2025-10-06T00:00:00"
+  },
+  {
+    "id": "ITEM-0124",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "Completed",
+    "amount": 97813.0,
+    "dateISO": "2025-09-21T00:00:00"
+  },
+  {
+    "id": "ITEM-0125",
+    "title": "Configure dashboard",
+    "category": "A",
+    "status": "Completed",
+    "amount": 45897.0,
+    "dateISO": "2025-09-16T00:00:00"
+  },
+  {
+    "id": "ITEM-0126",
+    "title": "Write docs",
+    "category": "D",
+    "status": "Completed",
+    "amount": 38685.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0127",
+    "title": "Fix workflow",
+    "category": "A",
+    "status": "New",
+    "amount": 14174.0,
+    "dateISO": "2025-09-16T00:00:00"
+  },
+  {
+    "id": "ITEM-0128",
+    "title": "Design API",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 60337.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0129",
+    "title": "Write docs",
+    "category": "C",
+    "status": "New",
+    "amount": 70334.0,
+    "dateISO": "2025-09-25T00:00:00"
+  },
+  {
+    "id": "ITEM-0130",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 2483.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0131",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 30195.0,
+    "dateISO": "2025-10-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0132",
+    "title": "Review workflow",
+    "category": "C",
+    "status": "Blocked",
+    "amount": 31608.0,
+    "dateISO": "2025-10-11T00:00:00"
+  },
+  {
+    "id": "ITEM-0133",
+    "title": "Update UI",
+    "category": "A",
+    "status": "Completed",
+    "amount": 75073.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0134",
+    "title": "Review workflow",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 71302.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0135",
+    "title": "Design API",
+    "category": "C",
+    "status": "Completed",
+    "amount": 6498.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0136",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 92542.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+  {
+    "id": "ITEM-0137",
+    "title": "Design API",
+    "category": "A",
+    "status": "Completed",
+    "amount": 10171.0,
+    "dateISO": "2025-09-21T00:00:00"
+  },
+  {
+    "id": "ITEM-0138",
+    "title": "Design API",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 97104.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0139",
+    "title": "Write docs",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 77318.0,
+    "dateISO": "2025-10-02T00:00:00"
+  },
+  {
+    "id": "ITEM-0140",
+    "title": "Review workflow",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 91342.0,
+    "dateISO": "2025-09-20T00:00:00"
+  },
+  {
+    "id": "ITEM-0141",
+    "title": "Write docs",
+    "category": "B",
+    "status": "New",
+    "amount": 4948.0,
+    "dateISO": "2025-03-15T00:00:00"
+  },
+  {
+    "id": "ITEM-01410",
+    "title": "Write docs",
+    "category": "B",
+    "status": "New",
+    "amount": 4948.0,
+    "dateISO": "2025-03-15T00:00:00"
+  },{
+    "id": "ITEM-01411",
+    "title": "Write docs",
+    "category": "B",
+    "status": "New",
+    "amount": 4948.0,
+    "dateISO": "2025-03-15T00:00:00"
+  },{
+    "id": "ITEM-01412",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "Completed",
+    "amount": 4948.0,
+    "dateISO": "2025-03-15T00:00:00"
+  },{
+    "id": "ITEM-01413",
+    "title": "Prepare for interview",
+    "category": "B",
+    "status": "New",
+    "amount": 4948.0,
+    "dateISO": "2025-03-15T00:00:00"
+  },{
+    "id": "ITEM-01414",
+    "title": "Review workflow",
+    "category": "B",
+    "status": "New",
+    "amount": 4948.0,
+    "dateISO": "2025-03-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0142",
+    "title": "Review workflow",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 64449.0,
+    "dateISO": "2025-09-22T00:00:00"
+  },
+  {
+    "id": "ITEM-0143",
+    "title": "Configure dashboard",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 17076.0,
+    "dateISO": "2025-10-06T00:00:00"
+  },
+  {
+    "id": "ITEM-0144",
+    "title": "Update UI",
+    "category": "C",
+    "status": "Completed",
+    "amount": 25574.0,
+    "dateISO": "2025-10-02T00:00:00"
+  },
+  {
+    "id": "ITEM-0145",
+    "title": "Design API",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 30084.0,
+    "dateISO": "2025-09-22T00:00:00"
+  },
+  {
+    "id": "ITEM-0146",
+    "title": "Review workflow",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 64321.0,
+    "dateISO": "2025-09-28T00:00:00"
+  },
+  {
+    "id": "ITEM-0147",
+    "title": "Fix workflow",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 45299.0,
+    "dateISO": "2025-10-13T00:00:00"
+  },
+  {
+    "id": "ITEM-0148",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 54779.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0149",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "Completed",
+    "amount": 55587.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0150",
+    "title": "Fix workflow",
+    "category": "C",
+    "status": "Completed",
+    "amount": 80936.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0151",
+    "title": "Fix chart",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 41388.0,
+    "dateISO": "2025-10-09T00:00:00"
+  },
+  {
+    "id": "ITEM-0152",
+    "title": "Fix workflow",
+    "category": "D",
+    "status": "Completed",
+    "amount": 33820.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0153",
+    "title": "Configure dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 12587.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0154",
+    "title": "Write docs",
+    "category": "B",
+    "status": "New",
+    "amount": 27102.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0155",
+    "title": "Review workflow",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 43184.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0156",
+    "title": "Fix chart",
+    "category": "B",
+    "status": "New",
+    "amount": 42520.0,
+    "dateISO": "2025-10-06T00:00:00"
+  },
+  {
+    "id": "ITEM-0157",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "New",
+    "amount": 7314.0,
+    "dateISO": "2025-09-21T00:00:00"
+  },
+  {
+    "id": "ITEM-0158",
+    "title": "Write docs",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 24847.0,
+    "dateISO": "2025-09-16T00:00:00"
+  },
+  {
+    "id": "ITEM-0159",
+    "title": "Fix workflow",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 52237.0,
+    "dateISO": "2025-10-12T00:00:00"
+  },
+  {
+    "id": "ITEM-0160",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "New",
+    "amount": 55150.0,
+    "dateISO": "2025-09-24T00:00:00"
+  },
+  {
+    "id": "ITEM-0161",
+    "title": "Fix chart",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 56938.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0162",
+    "title": "Design API",
+    "category": "B",
+    "status": "Completed",
+    "amount": 52825.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0163",
+    "title": "Deploy API",
+    "category": "A",
+    "status": "New",
+    "amount": 30035.0,
+    "dateISO": "2025-10-02T00:00:00"
+  },
+  {
+    "id": "ITEM-0164",
+    "title": "Refactor code",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 26088.0,
+    "dateISO": "2025-04-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0165",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "New",
+    "amount": 53748.0,
+    "dateISO": "2025-09-20T00:00:00"
+  },
+  {
+    "id": "ITEM-0166",
+    "title": "Design API",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 47530.0,
+    "dateISO": "2025-10-01T00:00:00"
+  },
+  {
+    "id": "ITEM-0167",
+    "title": "Write docs",
+    "category": "B",
+    "status": "New",
+    "amount": 96061.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0168",
+    "title": "Design API",
+    "category": "A",
+    "status": "New",
+    "amount": 19412.0,
+    "dateISO": "2025-09-23T00:00:00"
+  },
+  {
+    "id": "ITEM-0169",
+    "title": "Review workflow",
+    "category": "A",
+    "status": "Completed",
+    "amount": 22784.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0170",
+    "title": "Update UI",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 3410.0,
+    "dateISO": "2025-10-02T00:00:00"
+  },
+  {
+    "id": "ITEM-0171",
+    "title": "Review workflow",
+    "category": "C",
+    "status": "Blocked",
+    "amount": 19808.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0172",
+    "title": "Design API",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 49570.0,
+    "dateISO": "2025-09-20T00:00:00"
+  },
+  {
+    "id": "ITEM-0173",
+    "title": "Design API",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 46511.0,
+    "dateISO": "2025-10-09T00:00:00"
+  },
+  {
+    "id": "ITEM-0174",
+    "title": "Design API",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 61010.0,
+    "dateISO": "2025-10-07T00:00:00"
+  },
+  {
+    "id": "ITEM-0175",
+    "title": "Fix workflow",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 91040.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0176",
+    "title": "Refactor code",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 5436.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0177",
+    "title": "Refactor code",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 5184.0,
+    "dateISO": "2025-10-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0178",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 89817.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0179",
+    "title": "Update UI",
+    "category": "A",
+    "status": "New",
+    "amount": 93160.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-0180",
+    "title": "Fix workflow",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 3189.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0181",
+    "title": "Review workflow",
+    "category": "C",
+    "status": "Completed",
+    "amount": 44244.0,
+    "dateISO": "2025-09-24T00:00:00"
+  },
+  {
+    "id": "ITEM-0182",
+    "title": "Fix chart",
+    "category": "A",
+    "status": "Completed",
+    "amount": 8076.0,
+    "dateISO": "2025-10-12T00:00:00"
+  },
+  {
+    "id": "ITEM-0183",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 35663.0,
+    "dateISO": "2025-10-02T00:00:00"
+  },
+  {
+    "id": "ITEM-0184",
+    "title": "Design API",
+    "category": "D",
+    "status": "New",
+    "amount": 4926.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0185",
+    "title": "Fix workflow",
+    "category": "C",
+    "status": "Blocked",
+    "amount": 19303.0,
+    "dateISO": "2025-09-30T00:00:00"
+  },
+  {
+    "id": "ITEM-0186",
+    "title": "Configure dashboard",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 24801.0,
+    "dateISO": "2025-10-04T00:00:00"
+  },
+  {
+    "id": "ITEM-0187",
+    "title": "Review workflow",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 3485.0,
+    "dateISO": "2025-09-25T00:00:00"
+  },
+  {
+    "id": "ITEM-0188",
+    "title": "Fix chart",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 74729.0,
+    "dateISO": "2025-10-13T00:00:00"
+  },
+  {
+    "id": "ITEM-0189",
+    "title": "Refactor code",
+    "category": "C",
+    "status": "Completed",
+    "amount": 27231.0,
+    "dateISO": "2025-09-17T00:00:00"
+  },
+  {
+    "id": "ITEM-01900",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },
+  {
+    "id": "ITEM-01901",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-01902",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-01903",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-01904",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-01905",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-01906",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-01907",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-01908",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-01909",
+    "title": "Create a new Repo",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-019010",
+    "title": "Go to Shimla",
+    "category": "A",
+    "status": "New",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-019011",
+    "title": "Recreate Components",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-019012",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-019013",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },{
+    "id": "ITEM-019014",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "Completed",
+    "amount": 74644.0,
+    "dateISO": "2025-05-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0191",
+    "title": "Update UI",
+    "category": "C",
+    "status": "Completed",
+    "amount": 377.0,
+    "dateISO": "2025-09-23T00:00:00"
+  },
+  {
+    "id": "ITEM-0192",
+    "title": "Refactor code",
+    "category": "A",
+    "status": "New",
+    "amount": 82602.0,
+    "dateISO": "2025-09-21T00:00:00"
+  },
+  {
+    "id": "ITEM-0193",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 78980.0,
+    "dateISO": "2025-10-12T00:00:00"
+  },
+  {
+    "id": "ITEM-0194",
+    "title": "Review workflow",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 92810.0,
+    "dateISO": "2025-09-16T00:00:00"
+  },
+  {
+    "id": "ITEM-0195",
+    "title": "Fix chart",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 60725.0,
+    "dateISO": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "ITEM-0196",
+    "title": "Update UI",
+    "category": "D",
+    "status": "Completed",
+    "amount": 78383.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0197",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 75289.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0198",
+    "title": "Review workflow",
+    "category": "A",
+    "status": "New",
+    "amount": 48169.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0199",
+    "title": "Update UI",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 88347.0,
+    "dateISO": "2025-09-28T00:00:00"
+  },
+  {
+    "id": "ITEM-0200",
+    "title": "Design API",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 9642.0,
+    "dateISO": "2025-10-13T00:00:00"
+  },
+  {
+    "id": "ITEM-0201",
+    "title": "Configure dashboard",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 13293.0,
+    "dateISO": "2025-09-30T00:00:00"
+  },
+  {
+    "id": "ITEM-0202",
+    "title": "Refactor code",
+    "category": "B",
+    "status": "New",
+    "amount": 77975.0,
+    "dateISO": "2025-10-01T00:00:00"
+  },
+  {
+    "id": "ITEM-0203",
+    "title": "Design API",
+    "category": "C",
+    "status": "Completed",
+    "amount": 37297.0,
+    "dateISO": "2025-10-06T00:00:00"
+  },
+  {
+    "id": "ITEM-0204",
+    "title": "Design API",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 24743.0,
+    "dateISO": "2025-09-22T00:00:00"
+  },
+  {
+    "id": "ITEM-0205",
+    "title": "Fix workflow",
+    "category": "B",
+    "status": "Completed",
+    "amount": 88417.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0206",
+    "title": "Fix workflow",
+    "category": "C",
+    "status": "New",
+    "amount": 39607.0,
+    "dateISO": "2025-09-27T00:00:00"
+  },
+  {
+    "id": "ITEM-0207",
+    "title": "Write docs",
+    "category": "B",
+    "status": "New",
+    "amount": 65333.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0208",
+    "title": "Deploy API",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 88283.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0209",
+    "title": "Configure dashboard",
+    "category": "C",
+    "status": "New",
+    "amount": 87688.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0210",
+    "title": "Deploy API",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 60049.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0211",
+    "title": "Refactor code",
+    "category": "B",
+    "status": "New",
+    "amount": 37224.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0212",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "Completed",
+    "amount": 77500.0,
+    "dateISO": "2025-09-18T00:00:00"
+  },
+  {
+    "id": "ITEM-0213",
+    "title": "Fix chart",
+    "category": "A",
+    "status": "Completed",
+    "amount": 21765.0,
+    "dateISO": "2025-09-24T00:00:00"
+  },
+  {
+    "id": "ITEM-0214",
+    "title": "Update UI",
+    "category": "B",
+    "status": "New",
+    "amount": 20398.0,
+    "dateISO": "2025-10-04T00:00:00"
+  },
+  {
+    "id": "ITEM-0215",
+    "title": "Fix chart",
+    "category": "B",
+    "status": "New",
+    "amount": 81883.0,
+    "dateISO": "2025-10-07T00:00:00"
+  },
+  {
+    "id": "ITEM-0216",
+    "title": "Update UI",
+    "category": "B",
+    "status": "Completed",
+    "amount": 7793.0,
+    "dateISO": "2025-10-02T00:00:00"
+  },
+  {
+    "id": "ITEM-0217",
+    "title": "Configure dashboard",
+    "category": "D",
+    "status": "New",
+    "amount": 40817.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0218",
+    "title": "Review workflow",
+    "category": "B",
+    "status": "New",
+    "amount": 65306.0,
+    "dateISO": "2025-09-20T00:00:00"
+  },
+  {
+    "id": "ITEM-0219",
+    "title": "Design API",
+    "category": "D",
+    "status": "Completed",
+    "amount": 66781.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+  {
+    "id": "ITEM-0220",
+    "title": "Fix chart",
+    "category": "C",
+    "status": "Completed",
+    "amount": 41408.0,
+    "dateISO": "2025-10-02T00:00:00"
+  },
+  {
+    "id": "ITEM-0221",
+    "title": "Update UI",
+    "category": "B",
+    "status": "Blocked",
+    "amount": 72803.0,
+    "dateISO": "2025-10-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0222",
+    "title": "Fix chart",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 42375.0,
+    "dateISO": "2025-10-09T00:00:00"
+  },
+  {
+    "id": "ITEM-0223",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "Completed",
+    "amount": 46091.0,
+    "dateISO": "2025-09-19T00:00:00"
+  },
+  {
+    "id": "ITEM-0224",
+    "title": "Analyze dashboard",
+    "category": "A",
+    "status": "New",
+    "amount": 55155.0,
+    "dateISO": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "ITEM-0225",
+    "title": "Review workflow",
+    "category": "A",
+    "status": "Completed",
+    "amount": 73725.0,
+    "dateISO": "2025-09-25T00:00:00"
+  },
+  {
+    "id": "ITEM-0226",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 16181.0,
+    "dateISO": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "ITEM-0227",
+    "title": "Deploy API",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 49051.0,
+    "dateISO": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "ITEM-0228",
+    "title": "Fix workflow",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 83729.0,
+    "dateISO": "2025-09-20T00:00:00"
+  },
+  {
+    "id": "ITEM-0229",
+    "title": "Configure dashboard",
+    "category": "C",
+    "status": "New",
+    "amount": 60764.0,
+    "dateISO": "2025-10-14T00:00:00"
+  },
+  {
+    "id": "ITEM-0230",
+    "title": "Review workflow",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 64032.0,
+    "dateISO": "2025-09-25T00:00:00"
+  },
+  {
+    "id": "ITEM-0231",
+    "title": "Fix workflow",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 82919.0,
+    "dateISO": "2025-09-18T00:00:00"
+  },
+  {
+    "id": "ITEM-0232",
+    "title": "Refactor code",
+    "category": "B",
+    "status": "New",
+    "amount": 39975.0,
+    "dateISO": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "ITEM-0233",
+    "title": "Analyze dashboard",
+    "category": "D",
+    "status": "Completed",
+    "amount": 12306.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0234",
+    "title": "Fix workflow",
+    "category": "A",
+    "status": "New",
+    "amount": 66790.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0235",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "Blocked",
+    "amount": 55005.0,
+    "dateISO": "2025-10-05T00:00:00"
+  },
+  {
+    "id": "ITEM-0236",
+    "title": "Design API",
+    "category": "D",
+    "status": "Completed",
+    "amount": 58262.0,
+    "dateISO": "2025-09-25T00:00:00"
+  },
+  {
+    "id": "ITEM-0237",
+    "title": "Review workflow",
+    "category": "C",
+    "status": "Blocked",
+    "amount": 50358.0,
+    "dateISO": "2025-10-02T00:00:00"
+  },
+  {
+    "id": "ITEM-0238",
+    "title": "Fix chart",
+    "category": "A",
+    "status": "Blocked",
+    "amount": 46527.0,
+    "dateISO": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "ITEM-0239",
+    "title": "Refactor code",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 81053.0,
+    "dateISO": "2025-10-01T00:00:00"
+  },
+  {
+    "id": "ITEM-0240",
+    "title": "Deploy API",
+    "category": "A",
+    "status": "In Progress",
+    "amount": 35858.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+  {
+    "id": "ITEM-0241",
+    "title": "Deploy API",
+    "category": "D",
+    "status": "New",
+    "amount": 4065.0,
+    "dateISO": "2025-10-04T00:00:00"
+  },
+  {
+    "id": "ITEM-0242",
+    "title": "Deploy API",
+    "category": "C",
+    "status": "New",
+    "amount": 5426.0,
+    "dateISO": "2025-10-11T00:00:00"
+  },
+  {
+    "id": "ITEM-0243",
+    "title": "Review workflow",
+    "category": "B",
+    "status": "New",
+    "amount": 85707.0,
+    "dateISO": "2025-09-29T00:00:00"
+  },
+  {
+    "id": "ITEM-0244",
+    "title": "Deploy API",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 98173.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0245",
+    "title": "Design API",
+    "category": "B",
+    "status": "In Progress",
+    "amount": 6552.0,
+    "dateISO": "2025-09-30T00:00:00"
+  },
+  {
+    "id": "ITEM-0246",
+    "title": "Refactor code",
+    "category": "C",
+    "status": "In Progress",
+    "amount": 32384.0,
+    "dateISO": "2025-10-04T00:00:00"
+  },
+  {
+    "id": "ITEM-0247",
+    "title": "Design API",
+    "category": "D",
+    "status": "In Progress",
+    "amount": 25416.0,
+    "dateISO": "2025-09-26T00:00:00"
+  },
+  {
+    "id": "ITEM-0248",
+    "title": "Configure dashboard",
+    "category": "B",
+    "status": "Completed",
+    "amount": 61587.0,
+    "dateISO": "2025-09-15T00:00:00"
+  },
+  {
+    "id": "ITEM-0249",
+    "title": "Update UI",
+    "category": "C",
+    "status": "New",
+    "amount": 19894.0,
+    "dateISO": "2025-10-08T00:00:00"
+  },
+  {
+    "id": "ITEM-0250",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  }
+  ,
+  {
+    "id": "ITEM-0251",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+    
+  {
+    "id": "ITEM-0252",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  
+  },
+  {
+    "id": "ITEM-0253",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  }
+  ,
+  {
+    "id": "ITEM-0254",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+    
+  {
+    "id": "ITEM-0255",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  
+  },
+  {
+    "id": "ITEM-0256",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  }
+  ,
+  {
+    "id": "ITEM-0257",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+    
+  {
+    "id": "ITEM-0258",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  
+  },
+  {
+    "id": "ITEM-0259",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  }
+  ,
+  {
+    "id": "ITEM-0260",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+    
+  {
+    "id": "ITEM-0261",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  
+  },
+  {
+    "id": "ITEM-0262",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  }
+  ,
+  {
+    "id": "ITEM-0263",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+    
+  {
+    "id": "ITEM-0264",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  
+  },
+  {
+    "id": "ITEM-0265",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  }
+  ,
+  {
+    "id": "ITEM-0266",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+    
+  {
+    "id": "ITEM-0267",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  
+  },
+  {
+    "id": "ITEM-0268",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  }
+  ,
+  {
+    "id": "ITEM-0269",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+    
+  {
+    "id": "ITEM-0270",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  
+  },
+  {
+    "id": "ITEM-0271",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  }
+  ,
+  {
+    "id": "ITEM-0272",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  },
+    
+  {
+    "id": "ITEM-02",
+    "title": "Analyze dashboard",
+    "category": "C",
+    "status": "Completed",
+    "amount": 89541.0,
+    "dateISO": "2025-10-03T00:00:00"
+  
+  }
+]
